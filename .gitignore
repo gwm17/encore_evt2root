@@ -1,0 +1,4 @@
+*.o
+converted_evt/*
+rootfiles/*
+evt2root
